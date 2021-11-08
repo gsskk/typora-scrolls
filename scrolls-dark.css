@@ -1,10 +1,10 @@
 :root {
     --text-color:#FEF7F0;/* 整体文字颜色 */
-    --bg-color: #364452; /*改变背景色*/
-    --side-bar-bg-color: #364452 ; 
-    /* --control-text-color: #333333; */
-    --primary-color: #333333; /*主按钮的颜色*/
-    --primary-btn-border-color: #333333;
+    --bg-color: #363B40; /*改变背景色*/
+    --side-bar-bg-color: #2E3033; 
+    /* --control-text-color: #a3d5fe; */
+    --primary-color: #a3d5fe; /*主按钮的颜色*/
+    --primary-btn-border-color: #a3d5fe;
     --primary-btn-text-color: #7A766A;
     /* --window-border: 1px solid #16161a; */
     --item-hover-bg-color: #7397CA; /*鼠标悬停时控件项的背景，如侧边栏中的菜单*/
@@ -51,7 +51,7 @@
 }
 
 html {
-    background: linear-gradient(to bottom, #1d242c , #29333e 80%, #1d242c );
+    /*background: linear-gradient(to bottom, #1d242c , #29333e 80%, #1d242c );*/
     font-size: 0.925rem;
 }
 
@@ -120,7 +120,7 @@ body {
 
 
 hr {
-    background-color: rgba(213, 163, 11, 0.57);
+    background-color: rgba(46, 48, 51, 0.57);
     border: 0 none;
     box-sizing: content-box;
     height: 2px;
@@ -823,7 +823,7 @@ code {
 }
 
 .info-panel-tab-wrapper {
-    background: #f3e6c2 !important;
+    background: #2E3033 !important;
     border-color: #fdf1d5 !important;
 }
 
@@ -1101,11 +1101,11 @@ img{
 }
 
 .ty-preferences .window-content {
-    background-color: #fafafa;
+    background-color: #57616b;
 }
 
 .ty-preferences .nav-group-item.active {
-    background: #999;
+    background: #989698;
     color: white;
 }
 .CodeMirror-code span{
