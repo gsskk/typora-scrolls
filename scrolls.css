@@ -264,10 +264,11 @@ ol:last-child {
     left: -83px;
 }  */
 
-
+/*
 input[type=checkbox]{
     opacity: 0;
 }
+*/
 
 #write .ul-list li.md-task-list-item.task-list-done,.md-task-list-item.task-list-not-done{
     position: relative;
