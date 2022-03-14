@@ -18,6 +18,8 @@
 }
 
 .dropdown-menu {
+    background-color: #364452 !important;
+    border-color: #9EAEBF !important;
 }
 
 @font-face {
@@ -142,7 +144,7 @@ ol:last-child {
     margin-bottom: 0;
 }
 
-
+/*
 #write > ul.ul-list {
     list-style: none !important;
 }
@@ -156,7 +158,7 @@ ol:last-child {
     width:9px;
     height:9px;
     border-radius: 50%;
-    background: #fef7f0;
+    /* background: #fef7f0;
     background: #9daebf;
     position: absolute;
     left:-20px;
@@ -259,12 +261,13 @@ ol:last-child {
     font-weight: bold;
     position: absolute;
     left: -83px;
-}
+} */
 
-
+/*
 input[type=checkbox]{
     opacity: 0;
 }
+*/
 
 #write ul.ul-list li.md-task-list-item.task-list-done,.md-task-list-item.task-list-not-done{
     position: relative;
